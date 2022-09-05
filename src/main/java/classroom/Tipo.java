@@ -1,6 +1,6 @@
 package classroom;
 
-public enum Tipo {
+private enum Tipo {
 	DISCIPLINAR(10),FUNDAMENTACION(20),ELECTIVA(30);
 	
 	private int codigo;
