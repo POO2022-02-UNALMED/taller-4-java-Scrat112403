@@ -1,7 +1,9 @@
 package classroom;
 
 public class Tipo {
-	DISCIPLINAR(10),FUNDAMENTACION(20),ELECTIVA(30);
+	int DISCIPLINAR= 50;
+	int FUNDAMENTACION= 0;
+	int ELECTIVA=1;
 	
 	private int codigo;
 	private String nombre;
